@@ -1,0 +1,101 @@
+review_id,review_text,sentiment
+1,"The product quality is exceptional, exceeded all my expectations!",positive
+2,"Terrible customer service and the item arrived completely damaged.",negative
+3,"Average performance, decent for the price point but nothing special.",neutral
+4,"Absolutely love this! Easy to setup, robust, and works flawlessly.",positive
+5,"Stopped working after two days. Extremely disappointed with the purchase.",negative
+6,"Customer support helped resolve my setup question within ten minutes.",positive
+7,"Delivery was slow and package was missing one adapter cable.",negative
+8,"Clean interface and intuitive controls. Highly recommended for students.",positive
+9,"Not worth the money, plenty of better alternatives available.",negative
+10,"Great value and durable build. Would definitely purchase again.",positive
+11,"The device is well designed and performs better than expected.",positive
+12,"Excellent purchase with outstanding quality and reliable performance.",positive
+13,"Setup was simple and everything worked perfectly from the beginning.",positive
+14,"The battery lasts all day and charges surprisingly quickly.",positive
+15,"Very satisfied with the product and its overall performance.",positive
+16,"The packaging was secure and the product arrived in perfect condition.",positive
+17,"Fantastic quality for the price. I would recommend it to everyone.",positive
+18,"The software runs smoothly and the interface is very user friendly.",positive
+19,"Customer support was friendly and solved my problem immediately.",positive
+20,"The product feels premium and works exactly as advertised.",positive
+21,"Fast delivery and excellent packaging. Everything was included.",positive
+22,"This product has made my daily tasks much easier.",positive
+23,"The controls are responsive and the design is attractive.",positive
+24,"I have been using it for weeks and it still works flawlessly.",positive
+25,"Great performance and excellent build quality.",positive
+26,"The instructions were clear and installation took only a few minutes.",positive
+27,"Affordable price and surprisingly impressive features.",positive
+28,"The product exceeded my expectations in every way.",positive
+29,"Very convenient to use and the quality is impressive.",positive
+30,"The screen is bright and the display quality is excellent.",positive
+31,"Reliable performance and a sturdy design. Definitely worth buying.",positive
+32,"The application is easy to navigate and responds quickly.",positive
+33,"Received exactly what I ordered and everything works perfectly.",positive
+34,"The sound quality is clear and the volume is impressive.",positive
+35,"Excellent value for money and a very satisfying purchase.",positive
+36,"The item stopped working shortly after purchase and cannot be repaired.",negative
+37,"Very poor quality. The material feels cheap and fragile.",negative
+38,"The delivery took much longer than promised.",negative
+39,"The battery drains extremely quickly and barely lasts an hour.",negative
+40,"The application keeps crashing and frequently loses my data.",negative
+41,"The product arrived with scratches and several missing components.",negative
+42,"Customer service was unhelpful and refused to address my complaint.",negative
+43,"The device overheats after only a few minutes of use.",negative
+44,"Extremely disappointed with the performance and overall quality.",negative
+45,"The instructions were confusing and the installation process was frustrating.",negative
+46,"The product is overpriced considering its limited features.",negative
+47,"The buttons are unresponsive and difficult to operate.",negative
+48,"I received the wrong item and the seller has not replied.",negative
+49,"The software is slow and freezes whenever I open multiple pages.",negative
+50,"Poor packaging resulted in a damaged product.",negative
+51,"The connection keeps dropping and makes the device unreliable.",negative
+52,"The product does not match the description provided by the seller.",negative
+53,"The charger stopped working after only a few days.",negative
+54,"The screen has several dead pixels and poor brightness.",negative
+55,"A frustrating experience from ordering to delivery.",negative
+56,"The material scratches easily and does not seem durable.",negative
+57,"The product makes an unusual noise during operation.",negative
+58,"The replacement process was slow and unnecessarily complicated.",negative
+59,"The device frequently disconnects without any warning.",negative
+60,"I expected much better quality for the amount I paid.",negative
+61,"The product arrived late and the outer packaging was badly damaged.",negative
+62,"The product has a standard design with a few basic features.",neutral
+63,"It works as described and provides the expected functions.",neutral
+64,"The delivery arrived within the estimated time frame.",neutral
+65,"The build quality is acceptable but not particularly impressive.",neutral
+66,"The interface is simple and includes the usual settings.",neutral
+67,"The device performs ordinary tasks without noticeable problems.",neutral
+68,"The packaging contains the product and its standard accessories.",neutral
+69,"The battery lasts approximately five hours under normal use.",neutral
+70,"The price is similar to other products in the same category.",neutral
+71,"Installation requires following several steps in the manual.",neutral
+72,"The product is available in three different colors.",neutral
+73,"The screen size is suitable for everyday browsing.",neutral
+74,"The software includes basic editing and file management features.",neutral
+75,"The delivery service provided a tracking number for the order.",neutral
+76,"The product weighs approximately one kilogram.",neutral
+77,"The device includes a standard warranty from the manufacturer.",neutral
+78,"The controls are located on the right side of the device.",neutral
+79,"The package arrived with the usual instruction booklet.",neutral
+80,"The product supports both wired and wireless connections.",neutral
+81,"The application has a dashboard with several navigation options.",neutral
+82,"The item is currently available in the manufacturer's online store.",neutral
+83,"The device requires a compatible charger for operation.",neutral
+84,"The product dimensions are similar to those listed on the website.",neutral
+85,"The customer support team responded to my question the following day.",neutral
+86,"The interface uses a combination of icons and text labels.",neutral
+87,"The product comes with a one year manufacturer's warranty.",neutral
+88,"The device has a plastic body and a metal frame.",neutral
+89,"The package includes a cable and a quick start guide.",neutral
+90,"The product can be used for both personal and office purposes.",neutral
+91,"The software is compatible with the latest version of the operating system.",neutral
+92,"The device has four buttons and a small indicator light.",neutral
+93,"The product is available through several online retailers.",neutral
+94,"The manual provides information about setup and maintenance.",neutral
+95,"The item has a medium sized display with standard resolution.",neutral
+96,"The product requires occasional software updates.",neutral
+97,"The device supports the file formats mentioned in its specifications.",neutral
+98,"The order confirmation was sent shortly after the purchase.",neutral
+99,"The product has a removable cover and two connection ports.",neutral
+100,"The device includes standard features for its product category.",neutral
